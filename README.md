@@ -1,3 +1,6 @@
+Simple manga recommendation based of off tf-idf & cosine similarity 
+
+
 ```
 (new) PS C:\Users\obenn\OneDrive\Desktop\py> python nlp.py
    manga_id                                            title                                             genres                                             themes                                           synopsis
