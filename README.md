@@ -20,14 +20,14 @@ Number of duplicate rows:
 
 Label distribution:
 genres
-['Hentai']                                                                9046
+['-----'] (nsfw)                                                                9046
 ['Romance']                                                               5305
-['Boys Love', 'Erotica']                                                  4632
+['Boys Love', '------'] (nsfw)                                                  4632
 []                                                                        2412
 ['Comedy']                                                                2122
                                                                           ...
 ['Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']                      1
-['Comedy', 'Erotica', 'Sports']                                              1
+['Comedy', '------', 'Sports']                                              1
 ['Action', 'Boys Love', 'Drama', 'Fantasy', 'Romance', 'Supernatural']       1
 ['Drama', 'Girls Love', 'Mystery']                                           1
 ['Fantasy', 'Mystery', 'Supernatural', 'Suspense']                           1
