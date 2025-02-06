@@ -1,4 +1,4 @@
-Simple manga recommendation based of off tf-idf & cosine similarity/
+### Simple manga recommendation based of off tf-idf & cosine similarity
 right now it only makes recomemndations based off of synopsis similarity to user input
 
 ```
