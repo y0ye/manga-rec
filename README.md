@@ -1,3 +1,4 @@
+```
 (new) PS C:\Users\obenn\OneDrive\Desktop\py> python nlp.py
    manga_id                                            title                                             genres                                             themes                                           synopsis
 0         2                                          Berserk  ['Action', 'Adventure', 'Award Winning', 'Dram...  ['Gore', 'Military', 'Mythology', 'Psychologic...  Guts, a former mercenary now known as the "Bla...
@@ -61,3 +62,4 @@ Top 10 recommendations based on your input:
  - Tramp.
  - Lodoss-tou Senki: Honoo no Majin
  - Seifuku Duty
+```
